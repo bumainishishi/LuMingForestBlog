@@ -12,7 +12,7 @@
             <a href="/" target="_blank" rel="noopener noreferrer">${options.optionSiteTitle}</a>
             All rights reserved.
             <a target="_blank" href="/map" >
-                <span class="font-text">站点地图</span>
+                <span class="font-text">站点地图</span><%--测试第一次提交--%>
             </a>
         </p>
     </div>
